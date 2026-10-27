@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & Secrets
+.env
+.env.*
+secrets.json
+api_keys.py
+credentials/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Media & Temp files
+temp/
+output/
+*.mp4
+*.png
+*.jpg
+*.webm
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
